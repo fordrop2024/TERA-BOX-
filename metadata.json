@@ -1,0 +1,6 @@
+{
+  "name": "TeraBox Search Bot",
+  "description": "Production-grade Telegram Bot that searches authorized TeraBox accounts for files matching queries with SQLite indexing, multi-account support, and inline Telegram download links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
